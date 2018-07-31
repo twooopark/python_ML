@@ -4,13 +4,20 @@ Studying Machine Learning using Python
 ## 1. 파이썬
 
   - 파이썬 기본 문법
+  - 연산자, 문자열, 리스트, 튜플, 딕셔너리, 함수, 클래스 등
+  - python_ML/python_ml_basic/ex_0201 ~ ex_0205
 
 
 ## 2. 파이썬 패키지
 
   - Numpy
+    - 배열의 연산, 행렬, 선형대수
+    - python_ML/python_ml_basic/ex_0301 ~ ex_0304
   - Pandas
+    - 테이블 제어, 통계, 시각화
+    - python_ML/python_ml_basic/ex_0305 ~ ex_0306
   - Matplotlib 
+    - python_ML/python_ml_basic/ex_0307
 
 ## 3. 지도학습 1
 
